@@ -1,6 +1,6 @@
 # tallerweb
 
-This template should help get you started developing with Vue 3 in Vite.
+Configuraciones básicas para el proyecto
 
 ## Recommended IDE Setup
 
